@@ -1,0 +1,9 @@
+# Ignore all folders containing "archive" in their name
+**/*archive*/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore everything inside the XGBOOST_ENV folder inside Classification/notebooks/
+notebooks/XGBOOST_ENV/
+
