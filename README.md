@@ -1,3 +1,4 @@
+```
 project/
 │
 ├── data/
@@ -18,3 +19,4 @@ project/
 ├── requirements.txt       # List of Python dependencies (e.g., pandas, scikit-learn)
 ├── README.md              # Overview of the project
 └── config.py              # Optional: Centralized configuration (paths, parameters)
+```
