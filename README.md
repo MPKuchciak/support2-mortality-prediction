@@ -1,7 +1,7 @@
 # SUPPORT2 Mortality Prediction
 
 Predicting in-hospital mortality from the SUPPORT2 dataset using classical ML and XGBoost.  
-Target variable: binary survival outcome. Key stratifier: income bracket.
+Target variable: binary survival outcome. Key stratifier: income bracket. Testing new models and tweaking different models. 
 
 ## Project Structure
 
