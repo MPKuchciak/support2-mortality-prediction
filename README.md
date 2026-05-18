@@ -5,6 +5,7 @@ Target variable: binary survival outcome. Key stratifier: income bracket.
 
 ## Project Structure
 
+```
 project/
 ├── data/
 │   ├── raw/                # Original SUPPORT2 dataset (untouched)
@@ -22,6 +23,7 @@ project/
 ├── config.py               # Paths, hyperparameters, random seed
 ├── requirements.txt
 └── README.md
+```
 
 ## Quickstart
 
